@@ -4,7 +4,7 @@ import { Route } from 'react-router';
 
 import './index.css';
 
-import Users from './Containers/Users/users';
+import Users from '../src/Containers/Users/Users';
 import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.render(
