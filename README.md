@@ -1,9 +1,19 @@
-ReactAndNodeJS-TheFrontEnd
-https://github.com/Blusy38/ReactAndNodeJS-TheBackEnd 
+# ReactAndNodeJS-TheFrontEnd
+Web application that displays a list of users stored in a MySQL database.
+The backend is in node.JS and uses Express the code is available here: https://github.com/Blusy38/ReactAndNodeJS-TheBackEnd
+The frontend is in react.
+CRUD functions are available.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Authors
+
+* **Guillaume Braillon**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Available Scripts
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
