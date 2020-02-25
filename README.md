@@ -9,6 +9,7 @@ CRUD functions are available.
 * **Guillaume Braillon**
 
 ## License
+https://img.shields.io/github/license/Blusy38/ReactAndNodeJS-TheFrontEnd
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
