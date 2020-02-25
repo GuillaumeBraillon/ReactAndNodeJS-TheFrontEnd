@@ -4,7 +4,7 @@ const Input = props => {
   //console.log(props.value);
   return (
     <input
-      className="form-control mb-2 mr-sm-2"
+      className={props.className}
       id={props.name}
       name={props.name}
       type={props.type}

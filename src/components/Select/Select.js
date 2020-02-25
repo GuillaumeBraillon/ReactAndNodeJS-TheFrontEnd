@@ -5,6 +5,7 @@ const Select = (props) => {
             name={props.name}
             value={props.value}
             onChange={props.handleChange}
+            className={props.className}
         >
             <option value="" disabled>{props.placeholder}</option>
             {props.options.map(option => {
