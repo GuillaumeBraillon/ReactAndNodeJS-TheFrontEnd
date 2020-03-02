@@ -11,7 +11,7 @@ CRUD functions are available.
 ## License
 <a href="https://github.com/Blusy38/ReactAndNodeJS-TheFrontEnd/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Blusy38/ReactAndNodeJS-TheFrontEnd"></a>
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Available Scripts
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
